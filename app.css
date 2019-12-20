@@ -1,0 +1,30 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: verdana, arial, sans-serif;
+}
+
+body {
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	font-family: "arial", sans-serif;
+	/*overflow: hidden;
+	overflow-x: scroll;*/
+	background-color: #F5F5F5;
+}
+
+#container {
+	width: 40%;
+	height: auto;
+	padding: 1%;
+	top: 200px;
+	left: 29%;
+	display: block;
+	position: fixed;
+	border: none;
+	color: #888888;
+	text-align: center;
+	border-radius: 10px;
+	z-index: 5000;
+}
